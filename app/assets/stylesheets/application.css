@@ -1,2 +1,3 @@
 /* Application styles */
-@import url('/bootstrap.css')
+@import url('/bootstrap.css');
+@import url('/my-custom-file.css');
